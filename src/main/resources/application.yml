@@ -1,0 +1,10 @@
+server:
+  port: 9090
+
+security:
+  basic:
+    enabled: false
+
+logging:
+  level:
+    com.github.bilak: DEBUG
